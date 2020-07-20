@@ -29,5 +29,9 @@ class WeatherAct {
         else if(x.equals(c)){
             System.out.println("Stay at home and play boardgames");
         }
+        else
+        {
+            System.out.println("Don't Know?");
+        }
     }
 }

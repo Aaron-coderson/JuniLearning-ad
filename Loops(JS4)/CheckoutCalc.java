@@ -12,19 +12,19 @@ import java.util.Scanner;
 
 class CheckoutCalc {
     public static void main(String[] args){
-        int x = 0;
-        int v = 0;
+        double x = 0;
+        double v = 0;
         Scanner scan = new Scanner(System.in);
         while(true)
         {
             System.out.print("number please ");
-            v = scan.nextInt();
+            v = scan.nextDouble();
             x += v;
             if(v==0)
             {
                 break;
             }
-        }
+        }w
         System.out.println(x);
     }
 }
