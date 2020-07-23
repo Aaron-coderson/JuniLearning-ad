@@ -24,7 +24,7 @@ class CheckoutCalc {
             {
                 break;
             }
-        }w
+        }
         System.out.println(x);
     }
 }
