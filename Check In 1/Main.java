@@ -2,7 +2,8 @@ import java.util.Scanner;
 class Main {
     public static void main(String[] args) {
         // Get the coordinate from the user
-
+        while(true)
+        {
         Scanner in = new Scanner(System.in);
         System.out.print("Please input a number from 0 to 9: ");
         int row = in.nextInt();
@@ -29,6 +30,7 @@ class Main {
         // You will need to check multiple conditions to determine which symbol to print. This can be accomplished by using && and ||, or by using nested conditional statements.
         //
         
+        
         for(int i = 0; i<=(9); i++)
         {
             for(int y = 0; y<=(9); y++)
@@ -52,4 +54,6 @@ class Main {
         System.out.println();
  
     }
+
+}
 }
