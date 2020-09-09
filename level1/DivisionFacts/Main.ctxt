@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=num1\ num2
+comment0.target=java.lang.String\ isRelPrime(int,\ int)
+comment0.text=\r\n\ \ \ \ public\ static\ String\ isprime(int\ num){\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ if(num%2\ \!\=\ 0\ ||\ num\ \=\=2){\r\n\ \ \ \ \ \ \ \ \ \ \ \ if(num%3\ \!\=\ 0\ ||\ num\=\=3){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if(num%5\ \!\=\ 0\ ||\ num\=\=5){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if(num%7\ \!\=\ 0\ ||\ num\=\=7){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ return("That\ number\ you\ inputed\ was\ prime");\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \r\n\ \ \ \ return("That\ number\ you\ inputed\ was\ not\ prime");\r\n\ \ \ \ \r\n\ \ \ \ }\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=j
+comment0.target=void\ s1(java.awt.Graphics)
+comment0.text=\ \r\n\ fillRect(int\ x,\ int\ y,\ int\ w,\ int\ h)\r\n\ setColor(Color\ c)\ ex\:\ Color.yellow\r\n\ fillOval(int\ x,\ int\ y,\ int\ w,\ int\ h)\r\n\ fillArc(int\ x,\ int\ y,\ int\ w,\ int\ h,\ int\ startAngle,\ int\ arcAngle)\r\n
+comment1.params=l
+comment1.target=void\ s2(java.awt.Graphics)
+comment2.params=k
+comment2.target=void\ s3(java.awt.Graphics)
+numComments=3
