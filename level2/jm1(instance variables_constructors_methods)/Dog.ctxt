@@ -2,4 +2,22 @@
 comment0.params=n\ a\ w\ ia
 comment0.target=Dog(java.lang.String,\ int,\ int,\ boolean)
 comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dog\r\n\ Sets\ values\ for\ every\ instance\ variable\r\n\ If\ the\ constructor\ doesn't\ set\ instance\ variables\ to\ something,\ they\ will\ be\ set\ to\ to\ default\ values\r\n\ Defaults\:\ int\ \=\ 0,\ double\ \=\ 0.0,\ boolean\ \=\ false,\ char\ \=\ '',\ String\ \=\ null\r\n
-numComments=1
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=int\ getAge()
+comment3.params=
+comment3.target=int\ getWeight()
+comment4.params=
+comment4.target=boolean\ getAlive()
+comment5.params=a
+comment5.target=void\ setAge(int)
+comment6.params=a
+comment6.target=void\ setWeight(int)
+comment7.params=a
+comment7.target=void\ setIsAlive(boolean)
+comment8.params=a
+comment8.target=void\ setName(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -38,4 +38,43 @@ public class Dog
         weight = w;
         isAlive = ia;
     }
+    // getter or accessor methods just return the value of an instance variable
+    public String getName()
+    {
+        return(name);
+    }
+    public int getAge()
+    {
+        return(age);
+    }
+    public int getWeight()
+    {
+        return(weight);
+    }
+    public boolean getAlive()
+    {
+        return(isAlive);
+    }
+    // setter or mutator methods set the value of an instance variable to a value
+    public void setAge(int a)
+    {
+        age = a;
+    }
+    public void setWeight(int a)
+    {
+        weight = a;
+    }
+    public void setIsAlive(boolean a)
+    {
+        isAlive = a;
+    }
+    public void setName(String a)
+    {
+        name = a;
+    }
+    // write a method toString() 
+    public String toString()
+    {
+        return("Name is " + name + ". Age is " + age + ". Weight is " + weight + ". ");
+    }
 }
