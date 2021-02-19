@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y\ c\ n\ w1\ ch
+comment0.target=carSkus(int,\ int,\ java.awt.Color,\ int,\ boolean,\ boolean)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ train\r\n
+comment1.params=j
+comment1.target=void\ draw(java.awt.Graphics)
+numComments=2

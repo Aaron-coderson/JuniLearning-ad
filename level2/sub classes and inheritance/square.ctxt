@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=w\ c
+comment0.target=square(int,\ java.lang.String)
+comment1.params=w
+comment1.target=square(int)
+comment2.params=
+comment2.target=int\ getPerim()
+numComments=3

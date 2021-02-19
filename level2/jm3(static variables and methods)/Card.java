@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Card
+public class Card implements Comparable<Card>
 {
     private int rank;
     private int suit;

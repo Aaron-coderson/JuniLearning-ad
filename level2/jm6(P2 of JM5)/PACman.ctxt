@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=x\ y\ s\ color
+comment0.target=PACman(int,\ int,\ int,\ java.awt.Color)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PACman\r\n
+comment1.params=
+comment1.target=int\ gX()
+comment2.params=
+comment2.target=int\ gY()
+comment3.params=
+comment3.target=int\ gS()
+comment4.params=j
+comment4.target=void\ draw(java.awt.Graphics)
+numComments=5

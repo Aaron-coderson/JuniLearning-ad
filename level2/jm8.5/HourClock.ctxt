@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=HourClock(boolean)
+comment1.params=
+comment1.target=void\ tick()
+comment2.params=
+comment2.target=int\ getHour()
+comment3.params=
+comment3.target=boolean\ getIsMilitary()
+comment4.params=h
+comment4.target=void\ setHour(int)
+comment5.params=
+comment5.target=void\ displayTime()
+numComments=6

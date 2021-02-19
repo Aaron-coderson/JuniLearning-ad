@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y\ c\ n
+comment0.target=car(int,\ int,\ java.awt.Color,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ train\r\n
+comment1.params=j
+comment1.target=void\ draw(java.awt.Graphics)
+comment2.params=
+comment2.target=int\ gX()
+comment3.params=
+comment3.target=int\ gY()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=t\ a\ i\ pN
+comment0.target=pBook(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ gI()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=a
+comment3.target=boolean\ cSi(pBook)
+comment4.params=a
+comment4.target=boolean\ cIsB(pBook)
+numComments=5
